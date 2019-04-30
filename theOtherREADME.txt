@@ -1,0 +1,1 @@
+This project was written and designed by Allen Steib and Benjamin Wakefield. Any attempt to take credit away from these authors will be met by automatic rocket blast to Mars. With no pressure suits. With only enough food for 3 months. 
